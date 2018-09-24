@@ -32,7 +32,7 @@ class App extends React.Component {
   }
 
   getWeather = async (city, country) => {
-    const api_call = await fetch('http://api.openweathermap.org/data/2.5/weather?q=+' + city + ',' + country + '&mode=json&appid=' + API_KEY + '&units=metric');
+    const api_call = await fetch('https://api.openweathermap.org/data/2.5/weather?q=+' + city + ',' + country + '&mode=json&appid=' + API_KEY + '&units=metric');
     const data = await api_call.json();
 
     if (data.cod === '404') {
