@@ -1,14 +1,9 @@
 {
-  "main.css": "static/css/main.bb830d93.css",
-  "main.css.map": "static/css/main.bb830d93.css.map",
-  "main.js": "static/js/main.09d9717a.js",
-  "main.js.map": "static/js/main.09d9717a.js.map",
+  "main.css": "static/css/main.61d8de8e.css",
+  "main.css.map": "static/css/main.61d8de8e.css.map",
+  "main.js": "static/js/main.fbac74fa.js",
+  "main.js.map": "static/js/main.fbac74fa.js.map",
   "static/media/cold.gif": "static/media/cold.ff44bfb7.gif",
-  "static/media/glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
-  "static/media/glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
-  "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
-  "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
-  "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
   "static/media/hot.gif": "static/media/hot.0ad26956.gif",
   "static/media/mild.webp": "static/media/mild.3a19a1cb.webp"
 }
